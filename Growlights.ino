@@ -1,3 +1,7 @@
+/**
+ * Growlights code for esp8266 WEMOS D1 Mini
+ */
+
 #include <Wire.h>
 #include <RTClib.h>
 
