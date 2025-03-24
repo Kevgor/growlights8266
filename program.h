@@ -1,0 +1,1 @@
+static const char PAGE_TentPage[] PROGMEM = "AAABBBBCCCCDDDD";
